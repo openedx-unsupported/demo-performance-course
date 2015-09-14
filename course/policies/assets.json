@@ -1,0 +1,43 @@
+{
+    "clouds-477992_1280.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "PERF101", 
+            "name": "clouds-477992_1280.jpg", 
+            "org": "DemoX", 
+            "revision": null, 
+            "run": "2015_T3", 
+            "tag": "c4x"
+        }, 
+        "displayname": "clouds-477992_1280.jpg", 
+        "filename": "asset-v1:DemoX+PERF101+2015_T3+type@asset+block@clouds-477992_1280.jpg", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "DemoX", 
+            "PERF101", 
+            "thumbnail", 
+            "clouds-477992_1280.jpg", 
+            null
+        ]
+    }, 
+    "subs_3_yD_cEKoCk.srt.sjson": {
+        "contentType": "application/json", 
+        "content_son": {
+            "category": "asset", 
+            "course": "PERF101", 
+            "name": "subs_3_yD_cEKoCk.srt.sjson", 
+            "org": "DemoX", 
+            "revision": null, 
+            "run": "2015_T3", 
+            "tag": "c4x"
+        }, 
+        "displayname": "subs_3_yD_cEKoCk.srt.sjson", 
+        "filename": "asset-v1:DemoX+PERF101+2015_T3+type@asset+block@subs_3_yD_cEKoCk.srt.sjson", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": null
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "course/course": {
+        "course_image": "clouds-477992_1280.jpg", 
+        "discussion_topics": {
+            "General": {
+                "id": "course"
+            }
+        }, 
+        "display_name": "Performance DemoX Course", 
+        "language": "en", 
+        "start": "2015-09-01T00:00:00Z", 
+        "tabs": [
+            {
+                "name": "Courseware", 
+                "type": "courseware"
+            }, 
+            {
+                "name": "Course Info", 
+                "type": "course_info"
+            }, 
+            {
+                "name": "Textbooks", 
+                "type": "textbooks"
+            }, 
+            {
+                "name": "Discussion", 
+                "type": "discussion"
+            }, 
+            {
+                "name": "Wiki", 
+                "type": "wiki"
+            }, 
+            {
+                "name": "Progress", 
+                "type": "progress"
+            }
+        ]
+    }
+}

@@ -1,1 +1,5 @@
-<course url_name="course" org="DemoX" course="PERF101"/>
+<course license="creative-commons: ver=4.0 BY NC ND" course_image="clouds-477992_1280.jpg" display_name="Performance DemoX Course" language="en" start="&quot;2015-09-01T00:00:00+00:00&quot;">
+  <chapter url_name="c057868d44184f65a70f47a412c0bc75"/>
+  <chapter url_name="a10ce94997a44d4ca812d9ba1ea824e0"/>
+  <wiki slug="DemoX.PERF101.2015_T3"/>
+</course>
